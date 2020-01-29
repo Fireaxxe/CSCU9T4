@@ -1,0 +1,85 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="month" type="xs:gMonth" minOccurs="0"/>
+	<xs:element name="platform" type="platformType">
+		<xs:complexType>
+			<xs:choice>
+				<xs:element name="Android" type="Android"/>
+				<xs:element name="iOS" type="iOS"/>
+				<xs:element name="Both" type="Both"/>				
+			</xs:choice>
+		</xs:complexType>		
+	</xs:element>
+	<xs:simpleType name="platformType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Android"/>
+			<xs:enumeration value="iOS"/>
+			<xs:enumeration value="Both"/>
+		</xs:restriction>
+	</xs:simpleType>	
+	<xs:element name="team" type="teamType">
+	 	<xs:complexType>
+	 		<xs:choice>
+	 			<xs:element name="Instinct(Yellow)" type="Instinct(Yellow)"/>
+	 			<xs:element name="Mystic(Blue)" type="Mystic(Blue)"/>
+	 			<xs:element name="None(White)" type="None(White)"/>
+	 			<xs:element none="Valor(Red)" type="Valor(Red)"/>
+	 		</xs:choice>
+	 	</xs:complexType>
+	</xs:element>		
+	
+<xs:simpleType name="teamType">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Instinct(Yellow)"/>
+			<xs:enumeration value="Mystic(Blue)"/>
+			<xs:enumeration value="None(White)"/>
+			<xs:enumeration value="Valor(Red)"/>
+		</xs:restriction>
+	</xs:simpleType>	
+	<xs:element name="level">
+		<xs:simpleType>
+			<xs:restriction base="xs:integer">
+				<xs:minInclusive value="1"/>
+				<xs:maxInclusive value="40"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="caught" type="xs:string">
+		<xs:simpleType>
+			<xs:restriction base="xs:integer">
+				<xs:pattern value="[0-1000]"/>
+				<xs:pattern value="[1001-5000]"/>
+				<xs:pattern value="[5001-20000]"/>
+				<xs:minInclusive value="20001"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="distance" type="xs:string">
+	<xs:simpleType>
+			<xs:restriction base="xs:integer">
+				<xs:pattern value="[10-99]"/>
+				<xs:pattern value="[100-999]"/>
+				<xs:minInclusive value="1000"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:element>
+	<xs:element name="person">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="month"/>
+				<xs:element ref="platform"/>
+				<xs:element ref="team"/>
+				<xs:element ref="level"/>
+				<xs:element ref="caught"/>
+				<xs:element ref="distance"/>
+			</xs:sequence>
+			<xs:attribute type="xs:string" name="id" use="optional"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="document">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="person" maxOccurs="unbounded" minOccurs="0"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

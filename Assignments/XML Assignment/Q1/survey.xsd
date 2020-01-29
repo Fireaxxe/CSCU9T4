@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="document">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="person" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="month">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="January"/>
+										<xs:enumeration value="February"/>
+										<xs:enumeration value="March"/>
+										<xs:enumeration value="April"/>
+										<xs:enumeration value="May"/>
+										<xs:enumeration value="June"/>
+										<xs:enumeration value="July"/>
+										<xs:enumeration value="August"/>
+										<xs:enumeration value="September"/>
+										<xs:enumeration value="October"/>
+										<xs:enumeration value="November"/>
+										<xs:enumeration value="December"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="platform">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="Android"/>
+										<xs:enumeration value="iOS"/>
+										<xs:enumeration value="Both"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="team">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="Instinct (Yellow)"/>
+										<xs:enumeration value="Mystic (Blue)"/>
+										<xs:enumeration value="Valor (Red)"/>
+										<xs:enumeration value="None (White)"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="level">
+								<xs:simpleType>
+									<xs:restriction base="xs:integer">
+										<xs:minInclusive value="1"/>
+										<xs:maxInclusive value="40"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="caught">
+								<xs:simpleType>
+									<xs:union>
+										<xs:simpleType>
+											<xs:restriction base="xs:integer">
+												<xs:minInclusive value="1"/>
+												<xs:maxExclusive value="1000"/>
+											</xs:restriction>
+										</xs:simpleType>
+										<xs:simpleType>
+											<xs:restriction base="xs:integer">
+												<xs:minInclusive value="1000"/>
+												<xs:maxExclusive value="5000"/>
+											</xs:restriction>
+										</xs:simpleType>
+										<xs:simpleType>
+											<xs:restriction base="xs:integer">
+												<xs:minInclusive value="5000"/>
+												<xs:maxExclusive value="20000"/>
+											</xs:restriction>
+										</xs:simpleType>
+										<xs:simpleType>
+											<xs:restriction base="xs:integer">
+												<xs:minInclusive value="20000"/>
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:union>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="distance">
+								<xs:simpleType>
+									<xs:union>
+										<xs:simpleType id="NoMedal">
+											<xs:restriction base="xs:integer">
+												<xs:minInclusive value="0"/>
+												<xs:maxInclusive value="9"/>
+											</xs:restriction>
+										</xs:simpleType>
+										<xs:simpleType id="Bronze">
+											<xs:restriction base="xs:integer">
+												<xs:minInclusive value="10"/>
+												<xs:maxInclusive value="99"/>
+											</xs:restriction>
+										</xs:simpleType>
+										<xs:simpleType id="Silver">
+											<xs:restriction base="xs:integer">
+												<xs:minInclusive value="100"/>
+												<xs:maxInclusive value="999"/>
+											</xs:restriction>
+										</xs:simpleType>
+										<xs:simpleType id="Gold">
+											<xs:restriction base="xs:integer">
+												<xs:minInclusive value="1000"/>                                                
+											</xs:restriction>
+										</xs:simpleType>
+									</xs:union>
+								</xs:simpleType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="id" type="xs:unsignedShort" use="optional" />
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

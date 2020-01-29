@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<staff>
+<staffMember post="Manager">
+<name>Ann Turner</name>
+<phone>7423</phone>
+</staffMember>
+<staffMember post="Engineer">
+<name>Dave Smith</name>
+<phone>7445</phone>
+</staffMember>
+</staff>

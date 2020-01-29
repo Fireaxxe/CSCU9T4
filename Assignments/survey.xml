@@ -1,0 +1,3675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<person id="S.No">
+		<month>When did you start playing Pokemon Go?</month>
+		<platform>What type of phone/OS do you play on?</platform>
+		<team>What team are you on?</team>
+		<level>What team Are You?</level>
+		<caught>How many pokemon have you caught?</caught>
+		<distance>How many KM have you traveled? (Jogger medal)</distance>
+	</person>
+	<person id="1">
+		<month>June</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>25</level>
+		<caught>1000</caught>
+		<distance>202</distance>
+	</person>
+	<person id="2">
+		<month>June</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>1000</caught>
+		<distance>944</distance>
+	</person>
+	<person id="3">
+		<month>June</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>29</level>
+		<caught>2000</caught>
+		<distance>487</distance>
+	</person>
+	<person id="4">
+		<month>June</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>29</level>
+		<caught>2000</caught>
+		<distance>324</distance>
+	</person>
+	<person id="5">
+		<month>June</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>28</level>
+		<caught>2000</caught>
+		<distance>350</distance>
+	</person>
+	<person id="6">
+		<month>June</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>888</distance>
+	</person>
+	<person id="7">
+		<month>June</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>951</distance>
+	</person>
+	<person id="8">
+		<month>June</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>1000</caught>
+		<distance>1935</distance>
+	</person>
+	<person id="9">
+		<month>June</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>2000</caught>
+		<distance>708</distance>
+	</person>
+	<person id="10">
+		<month>June</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>2000</caught>
+		<distance>907</distance>
+	</person>
+	<person id="11">
+		<month>June</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>3000</caught>
+		<distance>767</distance>
+	</person>
+	<person id="12">
+		<month>June</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>1000</caught>
+		<distance>1060</distance>
+	</person>
+	<person id="13">
+		<month>June</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>3000</caught>
+		<distance>915</distance>
+	</person>
+	<person id="14">
+		<month>June</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>25</level>
+		<caught>3000</caught>
+		<distance>290</distance>
+	</person>
+	<person id="15">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>33</level>
+		<caught>5000</caught>
+		<distance>782</distance>
+	</person>
+	<person id="16">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>30</level>
+		<caught>2000</caught>
+		<distance>240</distance>
+	</person>
+	<person id="17">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>2000</caught>
+		<distance>1502</distance>
+	</person>
+	<person id="18">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>39</level>
+		<caught>5000</caught>
+		<distance>2058</distance>
+	</person>
+	<person id="19">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>2000</caught>
+		<distance>1181</distance>
+	</person>
+	<person id="20">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>20</level>
+		<caught>3000</caught>
+		<distance>72</distance>
+	</person>
+	<person id="21">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>31</level>
+		<caught>5000</caught>
+		<distance>982</distance>
+	</person>
+	<person id="22">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>3000</caught>
+		<distance>1010</distance>
+	</person>
+	<person id="23">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>37</level>
+		<caught>5000</caught>
+		<distance>5760</distance>
+	</person>
+	<person id="24">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>24</level>
+		<caught>3000</caught>
+		<distance>121</distance>
+	</person>
+	<person id="25">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>22</level>
+		<caught>2000</caught>
+		<distance>76</distance>
+	</person>
+	<person id="26">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>25</level>
+		<caught>10000</caught>
+		<distance>212</distance>
+	</person>
+	<person id="27">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>26</level>
+		<caught>2000</caught>
+		<distance>208</distance>
+	</person>
+	<person id="28">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>27</level>
+		<caught>5000</caught>
+		<distance>700</distance>
+	</person>
+	<person id="29">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>27</level>
+		<caught>2000</caught>
+		<distance>266</distance>
+	</person>
+	<person id="30">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>30</level>
+		<caught>2000</caught>
+		<distance>643</distance>
+	</person>
+	<person id="31">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>26</level>
+		<caught>3000</caught>
+		<distance>355</distance>
+	</person>
+	<person id="32">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>5000</caught>
+		<distance>530</distance>
+	</person>
+	<person id="33">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>27</level>
+		<caught>5000</caught>
+		<distance>392</distance>
+	</person>
+	<person id="34">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>27</level>
+		<caught>3000</caught>
+		<distance>550</distance>
+	</person>
+	<person id="35">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>29</level>
+		<caught>2000</caught>
+		<distance>232</distance>
+	</person>
+	<person id="36">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>29</level>
+		<caught>3000</caught>
+		<distance>859</distance>
+	</person>
+	<person id="37">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>3000</caught>
+		<distance>600</distance>
+	</person>
+	<person id="38">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>3000</caught>
+		<distance>358</distance>
+	</person>
+	<person id="39">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>26</level>
+		<caught>3000</caught>
+		<distance>205</distance>
+	</person>
+	<person id="40">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>29</level>
+		<caught>5000</caught>
+		<distance>710</distance>
+	</person>
+	<person id="41">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>29</level>
+		<caught>5000</caught>
+		<distance>415</distance>
+	</person>
+	<person id="42">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>30</level>
+		<caught>5000</caught>
+		<distance>1122</distance>
+	</person>
+	<person id="43">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>29</level>
+		<caught>10000</caught>
+		<distance>706</distance>
+	</person>
+	<person id="44">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>35</level>
+		<caught>5000</caught>
+		<distance>1263</distance>
+	</person>
+	<person id="45">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>2000</caught>
+		<distance>437</distance>
+	</person>
+	<person id="46">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>30</level>
+		<caught>3000</caught>
+		<distance>452</distance>
+	</person>
+	<person id="47">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>28</level>
+		<caught>5000</caught>
+		<distance>5000</distance>
+	</person>
+	<person id="48">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>29</level>
+		<caught>3000</caught>
+		<distance>387</distance>
+	</person>
+	<person id="49">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>5000</caught>
+		<distance>951</distance>
+	</person>
+	<person id="50">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>30</level>
+		<caught>5000</caught>
+		<distance>388</distance>
+	</person>
+	<person id="51">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>30</level>
+		<caught>3000</caught>
+		<distance>619</distance>
+	</person>
+	<person id="52">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>28</level>
+		<caught>5000</caught>
+		<distance>201</distance>
+	</person>
+	<person id="53">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>758</distance>
+	</person>
+	<person id="54">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>5000</caught>
+		<distance>848</distance>
+	</person>
+	<person id="55">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>922</distance>
+	</person>
+	<person id="56">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>2000</caught>
+		<distance>741</distance>
+	</person>
+	<person id="57">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>3000</caught>
+		<distance>977</distance>
+	</person>
+	<person id="58">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>35</level>
+		<caught>3000</caught>
+		<distance>1093</distance>
+	</person>
+	<person id="59">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>3000</caught>
+		<distance>1200</distance>
+	</person>
+	<person id="60">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>31</level>
+		<caught>5000</caught>
+		<distance>622</distance>
+	</person>
+	<person id="61">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>5000</caught>
+		<distance>440</distance>
+	</person>
+	<person id="62">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>5000</caught>
+		<distance>1017</distance>
+	</person>
+	<person id="63">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>34</level>
+		<caught>5000</caught>
+		<distance>1365</distance>
+	</person>
+	<person id="64">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>2000</caught>
+		<distance>620</distance>
+	</person>
+	<person id="65">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>1317</distance>
+	</person>
+	<person id="66">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>5000</caught>
+		<distance>907</distance>
+	</person>
+	<person id="67">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>5000</caught>
+		<distance>1932</distance>
+	</person>
+	<person id="68">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>31</level>
+		<caught>3000</caught>
+		<distance>1210</distance>
+	</person>
+	<person id="69">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>36</level>
+		<caught>2000</caught>
+		<distance>1564</distance>
+	</person>
+	<person id="70">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>5000</caught>
+		<distance>1480</distance>
+	</person>
+	<person id="71">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>10000</caught>
+		<distance>842</distance>
+	</person>
+	<person id="72">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>421</distance>
+	</person>
+	<person id="73">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>5000</caught>
+		<distance>1507</distance>
+	</person>
+	<person id="74">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>10000</caught>
+		<distance>1718</distance>
+	</person>
+	<person id="75">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>3000</caught>
+		<distance>1935</distance>
+	</person>
+	<person id="76">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>1146</distance>
+	</person>
+	<person id="77">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>36</level>
+		<caught>3000</caught>
+		<distance>1378</distance>
+	</person>
+	<person id="78">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>30</level>
+		<caught>3000</caught>
+		<distance>700</distance>
+	</person>
+	<person id="79">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>1362</distance>
+	</person>
+	<person id="80">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>3000</caught>
+		<distance>1313</distance>
+	</person>
+	<person id="81">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>3000</caught>
+		<distance>2370</distance>
+	</person>
+	<person id="82">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>35</level>
+		<caught>5000</caught>
+		<distance>1839</distance>
+	</person>
+	<person id="83">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>5000</caught>
+		<distance>1596</distance>
+	</person>
+	<person id="84">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>40</level>
+		<caught>10000</caught>
+		<distance>2336</distance>
+	</person>
+	<person id="85">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>30</level>
+		<caught>3000</caught>
+		<distance>1005</distance>
+	</person>
+	<person id="86">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>28</level>
+		<caught>5000</caught>
+		<distance>1</distance>
+	</person>
+	<person id="87">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>1233</distance>
+	</person>
+	<person id="88">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>5000</caught>
+		<distance>4390</distance>
+	</person>
+	<person id="89">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>27</level>
+		<caught>5000</caught>
+		<distance>394</distance>
+	</person>
+	<person id="90">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>2245</distance>
+	</person>
+	<person id="91">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>5000</caught>
+		<distance>819</distance>
+	</person>
+	<person id="92">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>10000</caught>
+		<distance>1500</distance>
+	</person>
+	<person id="93">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>39</level>
+		<caught>10000</caught>
+		<distance>1545</distance>
+	</person>
+	<person id="94">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>33</level>
+		<caught>5000</caught>
+		<distance>792</distance>
+	</person>
+	<person id="95">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>5000</caught>
+		<distance>1130</distance>
+	</person>
+	<person id="96">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>1336</distance>
+	</person>
+	<person id="97">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>1100</distance>
+	</person>
+	<person id="98">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>2000</caught>
+		<distance>1137</distance>
+	</person>
+	<person id="99">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>1718</distance>
+	</person>
+	<person id="100">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>20000</distance>
+	</person>
+	<person id="101">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>25</level>
+		<caught>10000</caught>
+		<distance>161</distance>
+	</person>
+	<person id="102">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>28</level>
+		<caught>5000</caught>
+		<distance>435</distance>
+	</person>
+	<person id="103">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>5000</caught>
+		<distance>1008</distance>
+	</person>
+	<person id="104">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>20000</caught>
+		<distance>800</distance>
+	</person>
+	<person id="105">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>10000</caught>
+		<distance>1575</distance>
+	</person>
+	<person id="106">
+		<month>July</month>
+		<platform>Both</platform>
+		<team>Valor (Red)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>1100</distance>
+	</person>
+	<person id="107">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>25</level>
+		<caught>10000</caught>
+		<distance>251</distance>
+	</person>
+	<person id="108">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>24</level>
+		<caught>5000</caught>
+		<distance>121</distance>
+	</person>
+	<person id="109">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>28</level>
+		<caught>3000</caught>
+		<distance>250</distance>
+	</person>
+	<person id="110">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>25</level>
+		<caught>20000</caught>
+		<distance>171</distance>
+	</person>
+	<person id="111">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>30</level>
+		<caught>5000</caught>
+		<distance>273</distance>
+	</person>
+	<person id="112">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>24</level>
+		<caught>10000</caught>
+		<distance>421</distance>
+	</person>
+	<person id="113">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>25</level>
+		<caught>5000</caught>
+		<distance>329</distance>
+	</person>
+	<person id="114">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>29</level>
+		<caught>10000</caught>
+		<distance>369</distance>
+	</person>
+	<person id="115">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>27</level>
+		<caught>10000</caught>
+		<distance>275</distance>
+	</person>
+	<person id="116">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>3000</caught>
+		<distance>585</distance>
+	</person>
+	<person id="117">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>29</level>
+		<caught>5000</caught>
+		<distance>523</distance>
+	</person>
+	<person id="118">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>30</level>
+		<caught>10000</caught>
+		<distance>511</distance>
+	</person>
+	<person id="119">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>27</level>
+		<caught>10000</caught>
+		<distance>341</distance>
+	</person>
+	<person id="120">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>31</level>
+		<caught>10000</caught>
+		<distance>738</distance>
+	</person>
+	<person id="121">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>None (White)</team>
+		<level>32</level>
+		<caught>5000</caught>
+		<distance>925</distance>
+	</person>
+	<person id="122">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>3000</caught>
+		<distance>426</distance>
+	</person>
+	<person id="123">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>3000</caught>
+		<distance>949</distance>
+	</person>
+	<person id="124">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>27</level>
+		<caught>3000</caught>
+		<distance>400</distance>
+	</person>
+	<person id="125">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>5000</caught>
+		<distance>672</distance>
+	</person>
+	<person id="126">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>31</level>
+		<caught>20000</caught>
+		<distance>348</distance>
+	</person>
+	<person id="127">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>390</distance>
+	</person>
+	<person id="128">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>28</level>
+		<caught>10000</caught>
+		<distance>268</distance>
+	</person>
+	<person id="129">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>679</distance>
+	</person>
+	<person id="130">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>10000</caught>
+		<distance>500</distance>
+	</person>
+	<person id="131">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>580</distance>
+	</person>
+	<person id="132">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>5000</caught>
+		<distance>598</distance>
+	</person>
+	<person id="133">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>5000</caught>
+		<distance>613</distance>
+	</person>
+	<person id="134">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>27</level>
+		<caught>10000</caught>
+		<distance>407</distance>
+	</person>
+	<person id="135">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>31</level>
+		<caught>5000</caught>
+		<distance>457</distance>
+	</person>
+	<person id="136">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>5000</caught>
+		<distance>1796</distance>
+	</person>
+	<person id="137">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>31</level>
+		<caught>20000</caught>
+		<distance>494</distance>
+	</person>
+	<person id="138">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>1221</distance>
+	</person>
+	<person id="139">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>5000</caught>
+		<distance>900</distance>
+	</person>
+	<person id="140">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>1369</distance>
+	</person>
+	<person id="141">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>5000</caught>
+		<distance>760</distance>
+	</person>
+	<person id="142">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>1690</distance>
+	</person>
+	<person id="143">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>34</level>
+		<caught>5000</caught>
+		<distance>518</distance>
+	</person>
+	<person id="144">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>380</distance>
+	</person>
+	<person id="145">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>10000</caught>
+		<distance>855</distance>
+	</person>
+	<person id="146">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>37</level>
+		<caught>10000</caught>
+		<distance>1859</distance>
+	</person>
+	<person id="147">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>10000</caught>
+		<distance>1151</distance>
+	</person>
+	<person id="148">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>3000</caught>
+		<distance>1369</distance>
+	</person>
+	<person id="149">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>33</level>
+		<caught>5000</caught>
+		<distance>674</distance>
+	</person>
+	<person id="150">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>10000</caught>
+		<distance>906</distance>
+	</person>
+	<person id="151">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>975</distance>
+	</person>
+	<person id="152">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>10000</caught>
+		<distance>2000</distance>
+	</person>
+	<person id="153">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>36</level>
+		<caught>10000</caught>
+		<distance>1227</distance>
+	</person>
+	<person id="154">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>926</distance>
+	</person>
+	<person id="155">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>35</level>
+		<caught>5000</caught>
+		<distance>1512</distance>
+	</person>
+	<person id="156">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>10000</caught>
+		<distance>876</distance>
+	</person>
+	<person id="157">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>34</level>
+		<caught>20000</caught>
+		<distance>1641</distance>
+	</person>
+	<person id="158">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>37</level>
+		<caught>20000</caught>
+		<distance>2000</distance>
+	</person>
+	<person id="159">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>1140</distance>
+	</person>
+	<person id="160">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>1030</distance>
+	</person>
+	<person id="161">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>10000</caught>
+		<distance>2950</distance>
+	</person>
+	<person id="162">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>1621</distance>
+	</person>
+	<person id="163">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>1296</distance>
+	</person>
+	<person id="164">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>36</level>
+		<caught>5000</caught>
+		<distance>1400</distance>
+	</person>
+	<person id="165">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>10000</caught>
+		<distance>304</distance>
+	</person>
+	<person id="166">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>10000</caught>
+		<distance>490</distance>
+	</person>
+	<person id="167">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>579</distance>
+	</person>
+	<person id="168">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>1513</distance>
+	</person>
+	<person id="169">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>31</level>
+		<caught>3000</caught>
+		<distance>1261</distance>
+	</person>
+	<person id="170">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>898</distance>
+	</person>
+	<person id="171">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>30</level>
+		<caught>20001</caught>
+		<distance>508</distance>
+	</person>
+	<person id="172">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>38</level>
+		<caught>10000</caught>
+		<distance>2992</distance>
+	</person>
+	<person id="173">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>1440</distance>
+	</person>
+	<person id="174">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>2246</distance>
+	</person>
+	<person id="175">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>10000</caught>
+		<distance>2265</distance>
+	</person>
+	<person id="176">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>23</level>
+		<caught>10000</caught>
+		<distance>56</distance>
+	</person>
+	<person id="177">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>10000</caught>
+		<distance>1300</distance>
+	</person>
+	<person id="178">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>35</level>
+		<caught>5000</caught>
+		<distance>870</distance>
+	</person>
+	<person id="179">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>10000</caught>
+		<distance>693</distance>
+	</person>
+	<person id="180">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>33</level>
+		<caught>10000</caught>
+		<distance>460</distance>
+	</person>
+	<person id="181">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>10021</distance>
+	</person>
+	<person id="182">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>29</level>
+		<caught>10000</caught>
+		<distance>392</distance>
+	</person>
+	<person id="183">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>20000</caught>
+		<distance>743</distance>
+	</person>
+	<person id="184">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>900</distance>
+	</person>
+	<person id="185">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>20000</caught>
+		<distance>1498</distance>
+	</person>
+	<person id="186">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>20000</caught>
+		<distance>1752</distance>
+	</person>
+	<person id="187">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>1340</distance>
+	</person>
+	<person id="188">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>31</level>
+		<caught>10000</caught>
+		<distance>615</distance>
+	</person>
+	<person id="189">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>1161</distance>
+	</person>
+	<person id="190">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>39</level>
+		<caught>20000</caught>
+		<distance>3844</distance>
+	</person>
+	<person id="191">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>20000</caught>
+		<distance>1367</distance>
+	</person>
+	<person id="192">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>20000</caught>
+		<distance>536</distance>
+	</person>
+	<person id="193">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>1230</distance>
+	</person>
+	<person id="194">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>33</level>
+		<caught>10000</caught>
+		<distance>1070</distance>
+	</person>
+	<person id="195">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>30</level>
+		<caught>5000</caught>
+		<distance>866</distance>
+	</person>
+	<person id="196">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>37</level>
+		<caught>10000</caught>
+		<distance>1681</distance>
+	</person>
+	<person id="197">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>37</level>
+		<caught>20000</caught>
+		<distance>4115</distance>
+	</person>
+	<person id="198">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>20000</caught>
+		<distance>1335</distance>
+	</person>
+	<person id="199">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>33</level>
+		<caught>3000</caught>
+		<distance>1233</distance>
+	</person>
+	<person id="200">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>20</level>
+		<caught>10000</caught>
+		<distance>50</distance>
+	</person>
+	<person id="201">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>2303</distance>
+	</person>
+	<person id="202">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>10000</caught>
+		<distance>822</distance>
+	</person>
+	<person id="203">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>36</level>
+		<caught>20000</caught>
+		<distance>2370</distance>
+	</person>
+	<person id="204">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>40</level>
+		<caught>10000</caught>
+		<distance>2482</distance>
+	</person>
+	<person id="205">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>1230</distance>
+	</person>
+	<person id="206">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>28</level>
+		<caught>20000</caught>
+		<distance>508</distance>
+	</person>
+	<person id="207">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>29</level>
+		<caught>5000</caught>
+		<distance>190</distance>
+	</person>
+	<person id="208">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>27</level>
+		<caught>10000</caught>
+		<distance>251</distance>
+	</person>
+	<person id="209">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>20000</caught>
+		<distance>610</distance>
+	</person>
+	<person id="210">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>1584</distance>
+	</person>
+	<person id="211">
+		<month>July</month>
+		<platform>Both</platform>
+		<team>Valor (Red)</team>
+		<level>36</level>
+		<caught>10000</caught>
+		<distance>1500</distance>
+	</person>
+	<person id="212">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>31</level>
+		<caught>10000</caught>
+		<distance>859</distance>
+	</person>
+	<person id="213">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>1678</distance>
+	</person>
+	<person id="214">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>31</level>
+		<caught>20000</caught>
+		<distance>715</distance>
+	</person>
+	<person id="215">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>10000</caught>
+		<distance>1065</distance>
+	</person>
+	<person id="216">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>37</level>
+		<caught>20000</caught>
+		<distance>2463</distance>
+	</person>
+	<person id="217">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>1616</distance>
+	</person>
+	<person id="218">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>2053</distance>
+	</person>
+	<person id="219">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>38</level>
+		<caught>20000</caught>
+		<distance>1130</distance>
+	</person>
+	<person id="220">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>10000</caught>
+		<distance>1885</distance>
+	</person>
+	<person id="221">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>2737</distance>
+	</person>
+	<person id="222">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>36</level>
+		<caught>20000</caught>
+		<distance>2573</distance>
+	</person>
+	<person id="223">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>35</level>
+		<caught>20001</caught>
+		<distance>1935</distance>
+	</person>
+	<person id="224">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>36</level>
+		<caught>20000</caught>
+		<distance>1468</distance>
+	</person>
+	<person id="225">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>38</level>
+		<caught>10000</caught>
+		<distance>3752</distance>
+	</person>
+	<person id="226">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>36</level>
+		<caught>20000</caught>
+		<distance>2666</distance>
+	</person>
+	<person id="227">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>39</level>
+		<caught>20000</caught>
+		<distance>2544</distance>
+	</person>
+	<person id="228">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>1630</distance>
+	</person>
+	<person id="229">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>918</distance>
+	</person>
+	<person id="230">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>38</level>
+		<caught>10000</caught>
+		<distance>3752</distance>
+	</person>
+	<person id="231">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>38</level>
+		<caught>20000</caught>
+		<distance>3883</distance>
+	</person>
+	<person id="232">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>28</level>
+		<caught>10000</caught>
+		<distance>442</distance>
+	</person>
+	<person id="233">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>29</level>
+		<caught>20001</caught>
+		<distance>618</distance>
+	</person>
+	<person id="234">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>2000</caught>
+		<distance>1365</distance>
+	</person>
+	<person id="235">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>10000</caught>
+		<distance>1559</distance>
+	</person>
+	<person id="236">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>20000</caught>
+		<distance>1900</distance>
+	</person>
+	<person id="237">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>34</level>
+		<caught>20000</caught>
+		<distance>1580</distance>
+	</person>
+	<person id="238">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>2279</distance>
+	</person>
+	<person id="239">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>1710</distance>
+	</person>
+	<person id="240">
+		<month>July</month>
+		<platform>Both</platform>
+		<team>Valor (Red)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>1200</distance>
+	</person>
+	<person id="241">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>893</distance>
+	</person>
+	<person id="242">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>20001</caught>
+		<distance>2412</distance>
+	</person>
+	<person id="243">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>738</distance>
+	</person>
+	<person id="244">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>40</level>
+		<caught>20000</caught>
+		<distance>2212</distance>
+	</person>
+	<person id="245">
+		<month>July</month>
+		<platform>Both</platform>
+		<team>Valor (Red)</team>
+		<level>39</level>
+		<caught>20001</caught>
+		<distance>2044</distance>
+	</person>
+	<person id="246">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>715</distance>
+	</person>
+	<person id="247">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20001</caught>
+		<distance>2365</distance>
+	</person>
+	<person id="248">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>35</level>
+		<caught>5000</caught>
+		<distance>1934</distance>
+	</person>
+	<person id="249">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>38</level>
+		<caught>5000</caught>
+		<distance>4481</distance>
+	</person>
+	<person id="250">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>27</level>
+		<caught>10000</caught>
+		<distance>462</distance>
+	</person>
+	<person id="251">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>30</level>
+		<caught>10000</caught>
+		<distance>350</distance>
+	</person>
+	<person id="252">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>10000</caught>
+		<distance>736</distance>
+	</person>
+	<person id="253">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>10000</caught>
+		<distance>276</distance>
+	</person>
+	<person id="254">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>689</distance>
+	</person>
+	<person id="255">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>1134</distance>
+	</person>
+	<person id="256">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>1528</distance>
+	</person>
+	<person id="257">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>36</level>
+		<caught>20000</caught>
+		<distance>1900</distance>
+	</person>
+	<person id="258">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>38</level>
+		<caught>20000</caught>
+		<distance>2001</distance>
+	</person>
+	<person id="259">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>29</level>
+		<caught>20000</caught>
+		<distance>316</distance>
+	</person>
+	<person id="260">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>10000</caught>
+		<distance>377</distance>
+	</person>
+	<person id="261">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>28</level>
+		<caught>10000</caught>
+		<distance>252</distance>
+	</person>
+	<person id="262">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>20001</caught>
+		<distance>640</distance>
+	</person>
+	<person id="263">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>819</distance>
+	</person>
+	<person id="264">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>1487</distance>
+	</person>
+	<person id="265">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>6000</distance>
+	</person>
+	<person id="266">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>1255</distance>
+	</person>
+	<person id="267">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>968</distance>
+	</person>
+	<person id="268">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>20000</caught>
+		<distance>1065</distance>
+	</person>
+	<person id="269">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>20000</caught>
+		<distance>2907</distance>
+	</person>
+	<person id="270">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>2309</distance>
+	</person>
+	<person id="271">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>20000</caught>
+		<distance>5185</distance>
+	</person>
+	<person id="272">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>834</distance>
+	</person>
+	<person id="273">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>37</level>
+		<caught>20000</caught>
+		<distance>3026</distance>
+	</person>
+	<person id="274">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>20001</caught>
+		<distance>1484</distance>
+	</person>
+	<person id="275">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>1296</distance>
+	</person>
+	<person id="276">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>600</distance>
+	</person>
+	<person id="277">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>31</level>
+		<caught>20000</caught>
+		<distance>880</distance>
+	</person>
+	<person id="278">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>678</distance>
+	</person>
+	<person id="279">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>27</level>
+		<caught>20000</caught>
+		<distance>278</distance>
+	</person>
+	<person id="280">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>28</level>
+		<caught>20000</caught>
+		<distance>242</distance>
+	</person>
+	<person id="281">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>29</level>
+		<caught>10000</caught>
+		<distance>255</distance>
+	</person>
+	<person id="282">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>26</level>
+		<caught>20001</caught>
+		<distance>252</distance>
+	</person>
+	<person id="283">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>25</level>
+		<caught>10000</caught>
+		<distance>249</distance>
+	</person>
+	<person id="284">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>27</level>
+		<caught>10000</caught>
+		<distance>163</distance>
+	</person>
+	<person id="285">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>24</level>
+		<caught>20000</caught>
+		<distance>208</distance>
+	</person>
+	<person id="286">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>27</level>
+		<caught>20000</caught>
+		<distance>286</distance>
+	</person>
+	<person id="287">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>24</level>
+		<caught>10000</caught>
+		<distance>107</distance>
+	</person>
+	<person id="288">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>31</level>
+		<caught>20001</caught>
+		<distance>626</distance>
+	</person>
+	<person id="289">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>20000</caught>
+		<distance>1370</distance>
+	</person>
+	<person id="290">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>10000</caught>
+		<distance>535</distance>
+	</person>
+	<person id="291">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>29</level>
+		<caught>10000</caught>
+		<distance>686</distance>
+	</person>
+	<person id="292">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>20000</caught>
+		<distance>1100</distance>
+	</person>
+	<person id="293">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>982</distance>
+	</person>
+	<person id="294">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>20001</caught>
+		<distance>682</distance>
+	</person>
+	<person id="295">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>20001</caught>
+		<distance>1440</distance>
+	</person>
+	<person id="296">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>20000</caught>
+		<distance>800</distance>
+	</person>
+	<person id="297">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>895</distance>
+	</person>
+	<person id="298">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>10000</caught>
+		<distance>1411</distance>
+	</person>
+	<person id="299">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>10000</caught>
+		<distance>1250</distance>
+	</person>
+	<person id="300">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>10000</caught>
+		<distance>304</distance>
+	</person>
+	<person id="301">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>38</level>
+		<caught>20001</caught>
+		<distance>1480</distance>
+	</person>
+	<person id="302">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>20001</caught>
+		<distance>1590</distance>
+	</person>
+	<person id="303">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>25</level>
+		<caught>20000</caught>
+		<distance>314</distance>
+	</person>
+	<person id="304">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>28</level>
+		<caught>20000</caught>
+		<distance>274</distance>
+	</person>
+	<person id="305">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>27</level>
+		<caught>20000</caught>
+		<distance>277</distance>
+	</person>
+	<person id="306">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>28</level>
+		<caught>20000</caught>
+		<distance>622</distance>
+	</person>
+	<person id="307">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>3000</caught>
+		<distance>1299</distance>
+	</person>
+	<person id="308">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>10000</caught>
+		<distance>340</distance>
+	</person>
+	<person id="309">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>20000</caught>
+		<distance>1460</distance>
+	</person>
+	<person id="310">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>970</distance>
+	</person>
+	<person id="311">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>20001</caught>
+		<distance>942</distance>
+	</person>
+	<person id="312">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>529</distance>
+	</person>
+	<person id="313">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>30</level>
+		<caught>20001</caught>
+		<distance>426</distance>
+	</person>
+	<person id="314">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>20001</caught>
+		<distance>842</distance>
+	</person>
+	<person id="315">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>20001</caught>
+		<distance>1118</distance>
+	</person>
+	<person id="316">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>1256</distance>
+	</person>
+	<person id="317">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>1087</distance>
+	</person>
+	<person id="318">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>35</level>
+		<caught>20001</caught>
+		<distance>800</distance>
+	</person>
+	<person id="319">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>39</level>
+		<caught>20000</caught>
+		<distance>2699</distance>
+	</person>
+	<person id="320">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>848</distance>
+	</person>
+	<person id="321">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>1497</distance>
+	</person>
+	<person id="322">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>10000</caught>
+		<distance>2050</distance>
+	</person>
+	<person id="323">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>10000</caught>
+		<distance>989</distance>
+	</person>
+	<person id="324">
+		<month>July</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>20000</caught>
+		<distance>2000</distance>
+	</person>
+	<person id="325">
+		<month>July</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>3461</distance>
+	</person>
+	<person id="326">
+		<month>August</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>28</level>
+		<caught>20000</caught>
+		<distance>512</distance>
+	</person>
+	<person id="327">
+		<month>August</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>29</level>
+		<caught>20001</caught>
+		<distance>364</distance>
+	</person>
+	<person id="328">
+		<month>August</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>33</level>
+		<caught>20001</caught>
+		<distance>1093</distance>
+	</person>
+	<person id="329">
+		<month>August</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>1879</distance>
+	</person>
+	<person id="330">
+		<month>August</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>20000</caught>
+		<distance>1500</distance>
+	</person>
+	<person id="331">
+		<month>August</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>29</level>
+		<caught>20001</caught>
+		<distance>326</distance>
+	</person>
+	<person id="332">
+		<month>August</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>806</distance>
+	</person>
+	<person id="333">
+		<month>August</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>20000</caught>
+		<distance>1425</distance>
+	</person>
+	<person id="334">
+		<month>August</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>25</level>
+		<caught>20000</caught>
+		<distance>182</distance>
+	</person>
+	<person id="335">
+		<month>August</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>20001</caught>
+		<distance>1800</distance>
+	</person>
+	<person id="336">
+		<month>August</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>1660</distance>
+	</person>
+	<person id="337">
+		<month>August</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>20001</caught>
+		<distance>987</distance>
+	</person>
+	<person id="338">
+		<month>August</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>39</level>
+		<caught>20001</caught>
+		<distance>2834</distance>
+	</person>
+	<person id="339">
+		<month>August</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>38</level>
+		<caught>20000</caught>
+		<distance>2268</distance>
+	</person>
+	<person id="340">
+		<month>August</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>28</level>
+		<caught>20000</caught>
+		<distance>456</distance>
+	</person>
+	<person id="341">
+		<month>August</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>26</level>
+		<caught>20000</caught>
+		<distance>303</distance>
+	</person>
+	<person id="342">
+		<month>August</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>26</level>
+		<caught>20000</caught>
+		<distance>321</distance>
+	</person>
+	<person id="343">
+		<month>August</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>20001</caught>
+		<distance>920</distance>
+	</person>
+	<person id="344">
+		<month>August</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>1383</distance>
+	</person>
+	<person id="345">
+		<month>August</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>20000</caught>
+		<distance>1025</distance>
+	</person>
+	<person id="346">
+		<month>August</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>1065</distance>
+	</person>
+	<person id="347">
+		<month>August</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>20001</caught>
+		<distance>390</distance>
+	</person>
+	<person id="348">
+		<month>August</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>25</level>
+		<caught>20001</caught>
+		<distance>356</distance>
+	</person>
+	<person id="349">
+		<month>September</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>31</level>
+		<caught>20000</caught>
+		<distance>927</distance>
+	</person>
+	<person id="350">
+		<month>September</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>27</level>
+		<caught>20001</caught>
+		<distance>547</distance>
+	</person>
+	<person id="351">
+		<month>September</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>1007</distance>
+	</person>
+	<person id="352">
+		<month>September</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>1393</distance>
+	</person>
+	<person id="353">
+		<month>September</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>23</level>
+		<caught>10000</caught>
+		<distance>137</distance>
+	</person>
+	<person id="354">
+		<month>September</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>25</level>
+		<caught>10000</caught>
+		<distance>548</distance>
+	</person>
+	<person id="355">
+		<month>November</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>5000</caught>
+		<distance>402</distance>
+	</person>
+	<person id="356">
+		<month>November</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>28</level>
+		<caught>10000</caught>
+		<distance>566</distance>
+	</person>
+	<person id="357">
+		<month>November</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>27</level>
+		<caught>20000</caught>
+		<distance>325</distance>
+	</person>
+	<person id="358">
+		<month>December</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>20000</caught>
+		<distance>274</distance>
+	</person>
+	<person id="359">
+		<month>December</month>
+		<platform>Both</platform>
+		<team>Valor (Red)</team>
+		<level>34</level>
+		<caught>5000</caught>
+		<distance>1682</distance>
+	</person>
+	<person id="360">
+		<month>December</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>914</distance>
+	</person>
+	<person id="361">
+		<month>December</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>3000</caught>
+		<distance>1735</distance>
+	</person>
+	<person id="362">
+		<month>December</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>39</level>
+		<caught>10000</caught>
+		<distance>2980</distance>
+	</person>
+	<person id="363">
+		<month>December</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>10000</caught>
+		<distance>1069</distance>
+	</person>
+	<person id="364">
+		<month>January</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>36</level>
+		<caught>20000</caught>
+		<distance>2021</distance>
+	</person>
+	<person id="365">
+		<month>February</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>40</level>
+		<caught>20001</caught>
+		<distance>3161</distance>
+	</person>
+	<person id="366">
+		<month>March</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>700</distance>
+	</person>
+	<person id="367">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>1053</distance>
+	</person>
+	<person id="368">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>27</level>
+		<caught>20000</caught>
+		<distance>231</distance>
+	</person>
+	<person id="369">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>29</level>
+		<caught>20001</caught>
+		<distance>451</distance>
+	</person>
+	<person id="370">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>29</level>
+		<caught>20001</caught>
+		<distance>1260</distance>
+	</person>
+	<person id="371">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>20001</caught>
+		<distance>1333</distance>
+	</person>
+	<person id="372">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>30</level>
+		<caught>20001</caught>
+		<distance>3000</distance>
+	</person>
+	<person id="373">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>34</level>
+		<caught>20001</caught>
+		<distance>1383</distance>
+	</person>
+	<person id="374">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>35</level>
+		<caught>20000</caught>
+		<distance>1</distance>
+	</person>
+	<person id="375">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>2096</distance>
+	</person>
+	<person id="376">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>36</level>
+		<caught>10000</caught>
+		<distance>1</distance>
+	</person>
+	<person id="377">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>1317</distance>
+	</person>
+	<person id="378">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>1400</distance>
+	</person>
+	<person id="379">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>35</level>
+		<caught>20001</caught>
+		<distance>1336</distance>
+	</person>
+	<person id="380">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>28</level>
+		<caught>20000</caught>
+		<distance>461</distance>
+	</person>
+	<person id="381">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>29</level>
+		<caught>20001</caught>
+		<distance>670</distance>
+	</person>
+	<person id="382">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>10000</caught>
+		<distance>1072</distance>
+	</person>
+	<person id="383">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>40</level>
+		<caught>10000</caught>
+		<distance>2697</distance>
+	</person>
+	<person id="384">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>20001</caught>
+		<distance>4008</distance>
+	</person>
+	<person id="385">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>40</level>
+		<caught>20000</caught>
+		<distance>3345</distance>
+	</person>
+	<person id="386">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>39</level>
+		<caught>20001</caught>
+		<distance>3235</distance>
+	</person>
+	<person id="387">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>20001</caught>
+		<distance>600</distance>
+	</person>
+	<person id="388">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>2022</distance>
+	</person>
+	<person id="389">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>34</level>
+		<caught>5000</caught>
+		<distance>2398</distance>
+	</person>
+	<person id="390">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>39</level>
+		<caught>10000</caught>
+		<distance>2662</distance>
+	</person>
+	<person id="391">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>31</level>
+		<caught>10000</caught>
+		<distance>382</distance>
+	</person>
+	<person id="392">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>30</level>
+		<caught>20000</caught>
+		<distance>371</distance>
+	</person>
+	<person id="393">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>994</distance>
+	</person>
+	<person id="394">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>3000</caught>
+		<distance>1991</distance>
+	</person>
+	<person id="395">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>20000</caught>
+		<distance>1543</distance>
+	</person>
+	<person id="396">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>38</level>
+		<caught>10000</caught>
+		<distance>1494</distance>
+	</person>
+	<person id="397">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>39</level>
+		<caught>5000</caught>
+		<distance>4023</distance>
+	</person>
+	<person id="398">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>10000</caught>
+		<distance>2743</distance>
+	</person>
+	<person id="399">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>38</level>
+		<caught>20000</caught>
+		<distance>2009</distance>
+	</person>
+	<person id="400">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>33</level>
+		<caught>20001</caught>
+		<distance>1008</distance>
+	</person>
+	<person id="401">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>26</level>
+		<caught>10000</caught>
+		<distance>318</distance>
+	</person>
+	<person id="402">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>29</level>
+		<caught>10000</caught>
+		<distance>646</distance>
+	</person>
+	<person id="403">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>1536</distance>
+	</person>
+	<person id="404">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>31</level>
+		<caught>5000</caught>
+		<distance>1136</distance>
+	</person>
+	<person id="405">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>925</distance>
+	</person>
+	<person id="406">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>10000</caught>
+		<distance>857</distance>
+	</person>
+	<person id="407">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>10000</caught>
+		<distance>1800</distance>
+	</person>
+	<person id="408">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>35</level>
+		<caught>10000</caught>
+		<distance>1800</distance>
+	</person>
+	<person id="409">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>37</level>
+		<caught>20001</caught>
+		<distance>1664</distance>
+	</person>
+	<person id="410">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>20001</caught>
+		<distance>914</distance>
+	</person>
+	<person id="411">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>27</level>
+		<caught>20000</caught>
+		<distance>308</distance>
+	</person>
+	<person id="412">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>31</level>
+		<caught>20000</caught>
+		<distance>624</distance>
+	</person>
+	<person id="413">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>29</level>
+		<caught>20001</caught>
+		<distance>597</distance>
+	</person>
+	<person id="414">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>37</level>
+		<caught>20001</caught>
+		<distance>1589</distance>
+	</person>
+	<person id="415">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>36</level>
+		<caught>10000</caught>
+		<distance>3074</distance>
+	</person>
+	<person id="416">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>29</level>
+		<caught>20000</caught>
+		<distance>516</distance>
+	</person>
+	<person id="417">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>34</level>
+		<caught>20000</caught>
+		<distance>1624</distance>
+	</person>
+	<person id="418">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>36</level>
+		<caught>20000</caught>
+		<distance>1743</distance>
+	</person>
+	<person id="419">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20001</caught>
+		<distance>1659</distance>
+	</person>
+	<person id="420">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>40</level>
+		<caught>10000</caught>
+		<distance>3720</distance>
+	</person>
+	<person id="421">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>30</level>
+		<caught>20000</caught>
+		<distance>700</distance>
+	</person>
+	<person id="422">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>28</level>
+		<caught>10000</caught>
+		<distance>505</distance>
+	</person>
+	<person id="423">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>30</level>
+		<caught>20001</caught>
+		<distance>1006</distance>
+	</person>
+	<person id="424">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>35</level>
+		<caught>2000</caught>
+		<distance>1261</distance>
+	</person>
+	<person id="425">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>3000</caught>
+		<distance>885</distance>
+	</person>
+	<person id="426">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>10000</caught>
+		<distance>1291</distance>
+	</person>
+	<person id="427">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Instinct (Yellow)</team>
+		<level>26</level>
+		<caught>20001</caught>
+		<distance>149</distance>
+	</person>
+	<person id="428">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>32</level>
+		<caught>20001</caught>
+		<distance>638</distance>
+	</person>
+	<person id="429">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>868</distance>
+	</person>
+	<person id="430">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>38</level>
+		<caught>20000</caught>
+		<distance>1768</distance>
+	</person>
+	<person id="431">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>34</level>
+		<caught>20001</caught>
+		<distance>1461</distance>
+	</person>
+	<person id="432">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>38</level>
+		<caught>20001</caught>
+		<distance>3286</distance>
+	</person>
+	<person id="433">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>27</level>
+		<caught>20001</caught>
+		<distance>356</distance>
+	</person>
+	<person id="434">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Valor (Red)</team>
+		<level>27</level>
+		<caught>20001</caught>
+		<distance>356</distance>
+	</person>
+	<person id="435">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>37</level>
+		<caught>10000</caught>
+		<distance>3646</distance>
+	</person>
+	<person id="436">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>21</level>
+		<caught>10000</caught>
+		<distance>30</distance>
+	</person>
+	<person id="437">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>20001</caught>
+		<distance>1280</distance>
+	</person>
+	<person id="438">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>20000</caught>
+		<distance>723</distance>
+	</person>
+	<person id="439">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>720</distance>
+	</person>
+	<person id="440">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>20001</caught>
+		<distance>1197</distance>
+	</person>
+	<person id="441">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>33</level>
+		<caught>20001</caught>
+		<distance>1166</distance>
+	</person>
+	<person id="442">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>39</level>
+		<caught>20000</caught>
+		<distance>2207</distance>
+	</person>
+	<person id="443">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>20001</caught>
+		<distance>1290</distance>
+	</person>
+	<person id="444">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>31</level>
+		<caught>20000</caught>
+		<distance>1096</distance>
+	</person>
+	<person id="445">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>37</level>
+		<caught>20000</caught>
+		<distance>2222</distance>
+	</person>
+	<person id="446">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>29</level>
+		<caught>20001</caught>
+		<distance>382</distance>
+	</person>
+	<person id="447">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>39</level>
+		<caught>10000</caught>
+		<distance>2088</distance>
+	</person>
+	<person id="448">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>28</level>
+		<caught>5000</caught>
+		<distance>342</distance>
+	</person>
+	<person id="449">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>33</level>
+		<caught>20000</caught>
+		<distance>1087</distance>
+	</person>
+	<person id="450">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>20000</caught>
+		<distance>1332</distance>
+	</person>
+	<person id="451">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>33</level>
+		<caught>2000</caught>
+		<distance>701</distance>
+	</person>
+	<person id="452">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>32</level>
+		<caught>5000</caught>
+		<distance>619</distance>
+	</person>
+	<person id="453">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>35</level>
+		<caught>5000</caught>
+		<distance>1355</distance>
+	</person>
+	<person id="454">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>36</level>
+		<caught>10000</caught>
+		<distance>2174</distance>
+	</person>
+	<person id="455">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Instinct (Yellow)</team>
+		<level>34</level>
+		<caught>20001</caught>
+		<distance>1640</distance>
+	</person>
+	<person id="456">
+		<month>May</month>
+		<platform>iOS</platform>
+		<team>Mystic (Blue)</team>
+		<level>28</level>
+		<caught>10000</caught>
+		<distance>668</distance>
+	</person>
+	<person id="457">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Mystic (Blue)</team>
+		<level>34</level>
+		<caught>20000</caught>
+		<distance>1772</distance>
+	</person>
+	<person id="458">
+		<month>May</month>
+		<platform>Android</platform>
+		<team>Valor (Red)</team>
+		<level>36</level>
+		<caught>1000</caught>
+		<distance>1500</distance>
+	</person>
+</document>

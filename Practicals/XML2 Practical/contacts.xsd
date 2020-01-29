@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="contacts">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="contact" minOccurs="1" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="name">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="first" type="xs:string"/>
+										<xs:element name="middle" type="xs:string" minOccurs="0"/>
+										<xs:element name="last" type="xs:string"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="age" type="xs:int" minOccurs="0"/>
+							<xs:element name="location">
+								<xs:complexType>
+									<xs:choice>
+										<xs:element name="postcode" type="xs:string"/>
+										<xs:element name="city" type="xs:string"/>										
+									</xs:choice>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="phone" type="xs:string"/>
+							<xs:element name="occupation" type="xs:string"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="contacts.xsd">
+	<contact>
+		<name>
+			<first>Anne</first>
+			<middle>Kate</middle>
+			<last>Fawcett</last>
+		</name>
+		<location>
+			<postcode>FK9 4LA</postcode>
+		</location>
+		<phone>(01786) 445587</phone>
+		<occupation>Engineer</occupation>
+	</contact>
+	<contact>
+		<name>
+			<first>Andy</first>
+			<last>Murray</last>
+		</name>
+		<age>27</age>
+		<location>
+			<city>Dunblane</city>
+		</location>
+		<phone>(01786) 455567</phone>
+		<occupation>Tennis Player</occupation>
+	</contact>
+</contacts>

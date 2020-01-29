@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE contacts [ 
+<!ELEMENT contacts (contact+)>
+<!ELEMENT contact (name+, age?, location+, phone, occupation)>
+<!ELEMENT name (first, middle?, last)>
+<!ELEMENT location (city|postcode)>
+
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT occupation (#PCDATA)>
+<!ELEMENT first (#PCDATA)>
+<!ELEMENT middle (#PCDATA)>
+<!ELEMENT last (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT postcode (#PCDATA)>
+]>
+<contacts>
+	<contact>
+		<name>
+			<first>Anne</first>
+			<middle>Kate</middle>
+			<last>Fawcett</last>
+		</name>
+		<location>
+			<postcode>FK9 4LA</postcode>
+		</location>
+		<phone>(01786) 445587</phone>
+		<occupation>Engineer</occupation>
+	</contact>
+	<contact>
+		<name>
+			<first>Andy</first>
+			<last>Murray</last>
+		</name>
+		<age>27</age>
+		<location>
+			<city>Dunblane</city>
+		</location>
+		<phone>(01786) 455567</phone>
+		<occupation>Tennis Player</occupation>
+	</contact>
+</contacts>	
